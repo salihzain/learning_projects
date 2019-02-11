@@ -1,0 +1,31 @@
+Radixsort using division vs bit shifting
+--------------------------------------------------------------
+
+We have 6 cases
+
+(Time is in milliseconds)
+
+Case1: 1000 ints in reversed order:
+old radix: 0.003
+new radix: 0.002
+
+Case2: 1000 ints sorted:
+old radix: 0.001
+new radix: 0.004
+
+Case3: 1000 ints randomly generated:
+old radix: 0.002
+new radix: 0.004
+
+Case4: 10k ints in reversed order:
+old radix: 0.005
+new radix: 0.022
+
+Case5: 10k ints sorted:
+old radix: 0.003
+new radix: 0.023
+
+Case6: 10k ints randomly generated:
+old radix: 0.005
+new radix: 0.022
+
