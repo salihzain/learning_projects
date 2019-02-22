@@ -1,4 +1,4 @@
-# CSC 242: Project 1
+# AI Project: MiniMax Implementation 
 
 
 
