@@ -22,6 +22,7 @@ Methods.java ===> the class where I stored all the methods that I need like copy
 
 
 **How does the game work? **
+
 As I said, all the magic lies in Golf.java 
 In general, the structure can be found here if my description below is not that clear https://www.lucidchart.com/invitations/accept/fd375e49-195f-4db0-b7e8-3325975c1d8a
 I start by creating instances from the other four classes. 
